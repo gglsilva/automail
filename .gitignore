@@ -1,0 +1,4 @@
+venv
+model.py
+.idea/
+__pycache__/
